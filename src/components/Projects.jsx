@@ -9,6 +9,7 @@ const projects = [
     tags: ["React", "Spring Boot", "MySQL"],
     image: "/assets/buy_loft.png",
     github: "https://github.com/mahesh-bollineni/buyloft.git"
+    live:"https://buyloft.vercel.app/"
   },
   {
     title: "ShieldText",
