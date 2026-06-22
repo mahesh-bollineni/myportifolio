@@ -7,7 +7,7 @@ const education = [
     institution: "Koneru Lakshmaiah University",
     location: "Vijayawada, AP",
     period: "2023 – 2027",
-    score: "CGPA: 8.69 / 10.0",
+    score: "CGPA: 8.7 / 10.0",
     details: "Focusing on Software Engineering, Data Structures & Algorithms, and Full-Stack Development."
   },
   {
