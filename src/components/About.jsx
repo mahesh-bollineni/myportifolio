@@ -19,8 +19,8 @@ const personalInfo = [
   { icon: <Mail className="w-5 h-5" />, label: "Email", value: "mahesh.bollineni1623@gmail.com" },
   { icon: <Phone className="w-5 h-5" />, label: "Phone", value: "+91 9014285618" }, // Placeholder phone
   { icon: <GraduationCap className="w-5 h-5" />, label: "Degree", value: "B.Tech CSE" },
-  { icon: <Calendar className="w-5 h-5" />, label: "Year", value: "Pre-final Year" },
-  { icon: <BarChart className="w-5 h-5" />, label: "CGPA", value: "8.69 / 10.0" },
+  { icon: <Calendar className="w-5 h-5" />, label: "Year", value: "Final Year" },
+  { icon: <BarChart className="w-5 h-5" />, label: "CGPA", value: "8.7 / 10.0" },
 ];
 
 const About = () => {
