@@ -8,7 +8,7 @@ const projects = [
     description: "Full-Stack E-Commerce platform for trading pre-owned goods. Built with React, Spring Boot, and MySQL. Features advanced filtering and JWT security.",
     tags: ["React", "Spring Boot", "MySQL"],
     image: "/assets/buy_loft.png",
-    github: "https://github.com/mahesh-bollineni/buyloft.git"
+    github: "https://github.com/mahesh-bollineni/buyloft.git",
     live:"https://buyloft.vercel.app/"
   },
   {
