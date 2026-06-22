@@ -62,7 +62,7 @@ const Hero = () => {
             transition={{ delay: 0.4 }}
             className="text-xl text-zinc-500 mb-8 max-w-lg leading-relaxed"
           >
-            Pre-final year B.Tech CSE student building impactful, production-grade systems with Java, Spring Boot, and React.
+            Final year B.Tech CSE student building impactful, production-grade systems with Java, Spring Boot, and React.
           </motion.p>
           <motion.div 
             initial={{ opacity: 0, y: 20 }}
